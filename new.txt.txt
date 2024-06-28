@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello! good mrg nasee....
-=======
-hello! naseee...
->>>>>>> 84b8de5d7f516d98e2da191c486240b68b8172fd
+hi how are you
